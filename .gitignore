@@ -3,3 +3,4 @@ main.log
 *.log
 /bin
 SDG/SDG.code-workspace
+SDG/.eslintrc.js
