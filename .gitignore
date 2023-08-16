@@ -4,3 +4,4 @@ main.log
 /bin
 SDG/SDG.code-workspace
 SDG/.eslintrc.js
+SDG/app.json
